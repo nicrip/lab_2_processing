@@ -1,0 +1,1 @@
+Magnetic declination calculation library and test program, modified from original by Edward A. Williams (http://williams.best.vwh.net/) to include the World Magnetic Model 2015 (valid from 01/01/2015 to 01/01/2020)
